@@ -1,0 +1,57 @@
+{
+    "Data Scientist": [
+        "Machine Learning",
+        "Data Mining",
+        "Statistical Modeling",
+        "Data Visualization",
+        "Big Data Processing"
+    ],
+    "Machine Learning": [
+        "Data Structures and Algorithms",
+        "Linear Algebra",
+        "Probability and Statistics",
+        "Calculus"
+    ],
+    "Data Mining": [
+        "Data Structures and Algorithms",
+        "Database Systems"
+    ],
+    "Statistical Modeling": [
+        "Probability and Statistics",
+        "Linear Algebra"
+    ],
+    "Data Visualization": [
+        "Introduction to Programming"
+    ],
+    "Big Data Processing": [
+        "Database Systems",
+        "Distributed Systems"
+    ],
+    "Data Structures and Algorithms": [
+        "Introduction to Programming"
+    ],
+    "Linear Algebra": [
+        "Calculus"
+    ],
+    "Probability and Statistics": [
+        "Calculus"
+    ],
+    "Database Systems": [
+        "Introduction to Programming"
+    ],
+    "Distributed Systems": [
+        "Operating Systems",
+        "Computer Networks"
+    ],
+    "Operating Systems": [
+        "Computer Organization and Architecture"
+    ],
+    "Computer Networks": [
+        "Computer Organization and Architecture"
+    ],
+    "Computer Organization and Architecture": [
+        "Introduction to Programming"
+    ],
+    "Calculus": [],
+    "Introduction to Programming": []
+}

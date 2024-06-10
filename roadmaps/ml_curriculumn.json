@@ -1,0 +1,43 @@
+{
+    "Machine Learning Engineer": [
+        "Machine Learning",
+        "Software Engineering",
+        "Artificial Intelligence"
+    ],
+    "Machine Learning": [
+        "Data Structures and Algorithms",
+        "Linear Algebra",
+        "Probability and Statistics",
+        "Calculus"
+    ],
+    "Software Engineering": [
+        "Object-Oriented Programming",
+        "Data Structures and Algorithms",
+        "Database Systems"
+    ],
+    "Artificial Intelligence": [
+        "Data Structures and Algorithms",
+        "Discrete Mathematics",
+        "Probability and Statistics"
+    ],
+    "Data Structures and Algorithms": [
+        "Introduction to Programming"
+    ],
+    "Linear Algebra": [
+        "Calculus"
+    ],
+    "Probability and Statistics": [
+        "Calculus"
+    ],
+    "Object-Oriented Programming": [
+        "Introduction to Programming"
+    ],
+    "Database Systems": [
+        "Introduction to Programming"
+    ],
+    "Discrete Mathematics": [
+        "Introduction to Programming"
+    ],
+    "Calculus": [],
+    "Introduction to Programming": []
+}

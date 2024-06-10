@@ -1,0 +1,82 @@
+{
+    "Digital Marketing": [
+        "Search Engine Optimization (SEO)",
+        "Social Media Marketing",
+        "Email Marketing",
+        "Content Marketing",
+        "Web Analytics",
+        "Online Advertising"
+    ],
+    "Search Engine Optimization (SEO)": [
+        "Web Development Fundamentals",
+        "On-Page SEO",
+        "Off-Page SEO"
+    ],
+    "Social Media Marketing": [
+        "Social Media Platforms",
+        "Content Creation",
+        "Community Management"
+    ],
+    "Email Marketing": [
+        "Email Marketing Platforms",
+        "Email List Building",
+        "Email Design"
+    ],
+    "Content Marketing": [
+        "Content Creation",
+        "Content Strategy",
+        "Content Distribution"
+    ],
+    "Web Analytics": [
+        "Data Analysis",
+        "Web Analytics Tools"
+    ],
+    "Online Advertising": [
+        "Pay-Per-Click (PPC) Advertising",
+        "Display Advertising",
+        "Retargeting Advertising"
+    ],
+    "Web Development Fundamentals": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+    "On-Page SEO": [
+        "Keyword Research",
+        "On-Page Optimization"
+    ],
+    "Off-Page SEO": [
+        "Link Building",
+        "Local SEO"
+    ],
+    "Social Media Platforms": [],
+    "Content Creation": [
+        "Writing",
+        "Graphic Design",
+        "Video Production"
+    ],
+    "Community Management": [],
+    "Email Marketing Platforms": [],
+    "Email List Building": [],
+    "Email Design": [],
+    "Content Strategy": [],
+    "Content Distribution": [],
+    "Data Analysis": [
+        "Statistics"
+    ],
+    "Web Analytics Tools": [],
+    "Pay-Per-Click (PPC) Advertising": [],
+    "Display Advertising": [],
+    "Retargeting Advertising": [],
+    "HTML": [],
+    "CSS": [],
+    "JavaScript": [],
+    "Keyword Research": [],
+    "On-Page Optimization": [],
+    "Link Building": [],
+    "Local SEO": [],
+    "Writing": [],
+    "Graphic Design": [],
+    "Video Production": [],
+    "Statistics": []
+}
